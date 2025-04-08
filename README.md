@@ -1,5 +1,5 @@
 # Tasks for CEBRA-Based Data Processing Pipeline for Mapping Time-Locked EEG Paired Sets in Interacting Participants
-___
+
 This repository contains solutions to the CEBRA-Based Data Processing Pipeline evaluation tasks for the GSoC 2025 project under ML4SCI. The project explores mapping neural dynamics within dyads  to uncover neural patterns underlying communication and Exploring differences in feature spaces. 
 
 🔗 Project Description: [CEBRA-Based Data Processing Pipeline](https://ml4sci.org/gsoc/2025/proposal_NeuroDyad1.html)
